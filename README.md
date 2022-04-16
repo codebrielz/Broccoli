@@ -5,7 +5,7 @@
 
 <div align="center"><img src="https://avatars.githubusercontent.com/u/82175314?v=4"/></div>
 
-> Tengo la capacidad de adaptarme a cualquier tecnologia sin problemas, me apasiona tanto el backend como el frontend, pero si tuviera que quedarme con una, me quedaria con backend, siempre me han gustado los rompecabezas y cuando tengo algun proyecto desafiante me lo paso muy bien resolviendo los problemas que surgen mientras escribo el codigo.  
+> Tengo la capacidad de adaptarme a cualquier tecnologia sin problemas, me apasiona tanto el backend como el frontend, siempre me han gustado los rompecabezas y cuando tengo algun proyecto desafiante me lo paso muy bien resolviendo los problemas que surgen mientras escribo el codigo.  
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebrielz" alt="codebrielz" /></a> </p>
 
